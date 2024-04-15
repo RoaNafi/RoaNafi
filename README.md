@@ -1,9 +1,9 @@
 <div align="center">
-  <h2>HI THERE 👋</h2>
+  <h2>🌟 HI THERE  🌟</h2>
 </div>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>🔠 MY CODING LANGUAGES 🔠</h3>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <h3>Database management</h3>
+  <h3>🗃️ DATABASE MANAGEMENT 🗃️</h3>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h3>Other Tools</h3>
+  <h3>🔧 TOOLS 🔧</h3>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h4>Contact</h4>
+  <h4>📬 GET IN TOUCH 📬</h4>
 </div>
 
 <div align="center"> 
