@@ -34,6 +34,7 @@
 
 </div>
 
+
 <div align="center">
   <h4>📬 GET IN TOUCH 📬</h4>
 </div>
@@ -42,4 +43,25 @@
   <a href="https://www.linkedin.com/in/roanafi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:roa.nafi@yahoo.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  <h4>📊 MY GITHUB STATS 📊</h4>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoaNafi" alt="Top Languages">
+  </a>
+</br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RoaNafi&show_icons=true" alt="GitHub Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=RoaNafi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoaNafi" alt="GitHub Streak Stats">
+  </a>
+</div>
+
 
