@@ -49,13 +49,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoaNafi" alt="Top Languages">
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RoaNafi&hide_border=false&show_icons=true&locale=en&layout=compact" alt="RoaNafi" />
+  </p>
 </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RoaNafi&show_icons=true" alt="GitHub Stats">
-  </a>
+  </p>
 </div>
 
 <div align="center">
