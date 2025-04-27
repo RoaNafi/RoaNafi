@@ -44,7 +44,6 @@ Welcome to my GitHub profile! I'm **Roa Nafi** — a **Computer Systems Engineer
 </div>
 
 ---
-
 #### 🔧 Tools & OS
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
@@ -54,7 +53,11 @@ Welcome to my GitHub profile! I'm **Roa Nafi** — a **Computer Systems Engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://images.prismic.io/sacra/Z0Sul68jQArT1Sb7_cursorlogo.png?auto=format,compress" alt="Cursor" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
 </div>
+
+
 
 ---
 
